@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-28T05:06:11+00:00",
+  "generatedAt": "2026-08-08T15:53:48+00:00",
   "sourceBuilds": 2223,
   "sourceRoofBuilds": 1064,
   "sourceSidingBuilds": 1159,
   "sourceProperties": 1341,
-  "pins": 1338,
+  "pins": 1777,
   "selectedTradeEntries": 2178,
   "sameTradeBuildsSuperseded": 45,
   "duplicatePublicAddressKeys": 0,
   "duplicateAddressGroupsCollapsed": 3,
   "sourcePropertiesCollapsedByAddress": 3,
   "coordinateCollisionGroupsOffset": 2,
-  "roofOnlyPins": 203,
-  "sidingOnlyPins": 295,
-  "multiTradePins": 840,
+  "roofOnlyPins": 385,
+  "sidingOnlyPins": 408,
+  "multiTradePins": 984,
   "fullyPopulatedTradeEntries": 443,
   "missing": {
     "color": 1302,
@@ -24,5 +24,8 @@
   "accountingValid": true,
   "containsPhotos": false,
   "containsSalesforceIds": false,
-  "containsFullInstallationDates": false
+  "containsFullInstallationDates": false,
+  "bbImportAddedPins": 439,
+  "bbImportMergedPins": 0,
+  "bbImportNote": "Merged Bay Brothers Co historical Closed Out imports (BB-*) geocoded via Census; material fields Not recorded when absent in source."
 }
